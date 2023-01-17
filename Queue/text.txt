@@ -1,0 +1,8 @@
+A queue is a linear data structure. Unline the array and linked list, a queue only supports insertion and deletion from the ends of the list
+
+It is called first in first out or first come first serve
+
+enqueue  = O(1)
+dequeue = O(1)
+peek front = O(1)
+peek back = O(1)
